@@ -1,7 +1,7 @@
 # Links
 Dude...Fuck TikTok. God forbid you have a fucking linktr.ee url on your profile because that shit will get blocked quick. Anyway, here are my links
 
-- [Store](https://www.tindie.com/products/justcallmekoko/bpnvg-3d-printed-night-vision-goggles/)
+- [Store](https://www.tindie.com/stores/lspoplove/)
 - [Discord](https://discord.com/invite/M2YWpfjAvM)
 - [Twitch](https://twitch.tv/willstunforfood)
 - [YouTube](https://www.youtube.com/justcallmekoko)
