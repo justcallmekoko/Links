@@ -1,5 +1,5 @@
 # Links
-Dude...Fuck TikTok. God forbid you have a fucking linktr.ee url on your profile because that shit will get blocked quick. Anyway, here are my links
+Dude...Fuck TikTok. Anyway, here are my links
 
 - [Store](https://www.tindie.com/products/justcallmekoko/bpnvg-3d-printed-night-vision-goggles/)
 - [Discord](https://discord.com/invite/M2YWpfjAvM)
