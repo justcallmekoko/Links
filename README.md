@@ -7,3 +7,4 @@ Dude...Fuck TikTok. Anyway, here are my links
 - [YouTube](https://www.youtube.com/justcallmekoko)
 - [TikTok](https://www.tiktok.com/@just.call.me.koko)
 - [Instagram](https://www.instagram.com/just.call.me.koko/)
+- [Patreon](https://www.patreon.com/justcallmekoko)
