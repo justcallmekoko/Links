@@ -5,7 +5,8 @@
 - [ESP32 Marauder Kit](https://www.tindie.com/products/justcallmekoko/esp32-marauder-kit/)
 - [ESP Marauder Mini](https://www.tindie.com/products/justcallmekoko/esp32-marauder-mini/)
 - [Fliper Zero Dev Board Enclosures](https://www.tindie.com/products/justcallmekoko/flipper-zero-wifi-dev-board-enclosure/)
-- [Store](https://www.tindie.com/products/justcallmekoko/3d-printed-night-vision-goggles-assembled/)
+- [3D Printed NVGs (assembled)](https://www.tindie.com/products/justcallmekoko/3d-printed-night-vision-goggles-assembled/)
+- [3D Printed NVG parts (printed parts/screws only)](https://www.tindie.com/products/justcallmekoko/bpnvg-3d-printed-night-vision-goggles/)
 
 ## Socials and Support
 - **[Discord](https://discord.com/servers/willstunforfood-776211399918878760)**
