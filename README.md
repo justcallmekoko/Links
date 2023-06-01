@@ -15,6 +15,6 @@
   - If that doesn't work, use [this](https://discord.gg/w5JmasxvKA)
 - [Twitch](https://twitch.tv/willstunforfood)
 - [YouTube](https://www.youtube.com/justcallmekoko)
-- [TikTok](https://www.tiktok.com/@just.call.me.koko)
+- [TikTok](https://www.tiktok.com/@just.call.me.koko.rip)
 - [Instagram](https://www.instagram.com/just.call.me.koko/)
 - [Patreon](https://www.patreon.com/justcallmekoko)
