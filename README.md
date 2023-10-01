@@ -2,7 +2,7 @@
 
 ## Shop
 - [ESP32 Marauder](https://www.tindie.com/products/justcallmekoko/esp32-marauder/)
-- [ESP32 Marauder Kit](https://www.tindie.com/products/justcallmekoko/esp32-marauder-kit/)
+- [ESP32 Marauder v6](https://www.tindie.com/products/justcallmekoko/esp32-marauder-v6/)
 - [ESP Marauder Mini](https://www.tindie.com/products/justcallmekoko/esp32-marauder-mini/)
 - [Fliper Zero Dev Board Enclosures](https://www.tindie.com/products/justcallmekoko/flipper-zero-wifi-dev-board-enclosure/)
 - [3D Printed NVGs (assembled)](https://www.tindie.com/products/justcallmekoko/3d-printed-night-vision-goggles-assembled/)
