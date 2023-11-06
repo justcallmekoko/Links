@@ -1,6 +1,7 @@
 # Links
 
 ## Shop
+- [**NEW Shop**](https://www.justcallmekokollc.com/)
 - [ESP32 Marauder](https://www.tindie.com/products/justcallmekoko/esp32-marauder/)
 - [ESP32 Marauder v6](https://www.tindie.com/products/justcallmekoko/esp32-marauder-v6/)
 - [ESP Marauder Mini](https://www.tindie.com/products/justcallmekoko/esp32-marauder-mini/)
